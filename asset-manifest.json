@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/User-Profile-Dashboard/static/css/main.722e55e3.css",
+    "main.js": "/User-Profile-Dashboard/static/js/main.fc10a757.js",
+    "index.html": "/User-Profile-Dashboard/index.html",
+    "main.722e55e3.css.map": "/User-Profile-Dashboard/static/css/main.722e55e3.css.map",
+    "main.fc10a757.js.map": "/User-Profile-Dashboard/static/js/main.fc10a757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722e55e3.css",
+    "static/js/main.fc10a757.js"
+  ]
+}
