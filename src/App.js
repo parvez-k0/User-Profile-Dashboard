@@ -7,15 +7,16 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-blue-950 to-black text-white">
       
       
-      <nav className="flex flex-col md:flex-row justify-between items-center px-8 py-4 bg-gradient-to-br from-blue-950 to-black text-white shadow-md space-y-2 md:space-y-0">
-  <h1 className="text-2xl font-bold">Task360</h1>
-  <ul className="flex flex-col md:flex-row gap-4 md:gap-6 text-sm items-center">
+     <nav className="flex items-center justify-between gap-4 px-4 py-4 bg-gradient-to-br from-blue-950 to-black text-white shadow-md">
+  <h1 className="text-2xl font-bold whitespace-nowrap">Task360</h1>
+  <ul className="flex gap-4 text-sm overflow-x-auto">
     <li className="hover:text-gray-300 cursor-pointer">Dashboard</li>
     <li className="hover:text-gray-300 cursor-pointer">Users</li>
     <li className="hover:text-gray-300 cursor-pointer">Settings</li>
     <li className="hover:text-red-400 cursor-pointer">Logout</li>
   </ul>
 </nav>
+
 
 
       <header className="text-center mt-12 mb-16">
